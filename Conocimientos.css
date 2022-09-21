@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  ._titulos1 h3 {
+    background-color: #99f;
+  }
+  
+  ._pagPrincipal {
+    padding: 20px 0;
+  }
+  
+  ._contenidos1 {
+    background-color: #ccc;
+    height: 200px;
+  }
+  
+  /* ####### Funcionalidad Radios ####### */
+  .dNone {
+    display: none;
+  }
+  
+  .labelTitulo1 {
+    width: 100%;
+  }
+  
+  /* ID radios 1 */
+  #idRadioT1-1:checked ~ #idTitulo1-1 {
+    display: block;
+  }
+  
+  #idRadioT1-2:checked ~ #idTitulo1-2 {
+    display: block;
+  }
+  
+  #idRadioT1-3:checked ~ #idTitulo1-3 {
+    display: block;
+  }
+  
+  #idRadioT1-4:checked ~ #idTitulo1-4 {
+    display: block;
+  }
+  
+  #idRadioT1-5:checked ~ #idTitulo1-5 {
+    display: block;
+  }
+  
+  #idRadioT1-6:checked ~ #idTitulo1-6 {
+    display: block;
+  }
+  
+  /* ID radios 2 */
+  #idRadioT2-1:checked ~ #idTitulo2-1 {
+    display: block;
+  }
+  
+  #idRadioT2-2:checked ~ #idTitulo2-2 {
+    display: block;
+  }
+  
+  #idRadioT2-3:checked ~ #idTitulo2-3 {
+    display: block;
+  }
+  
+  /* ID radios 3 */
+  #idRadioT3-1:checked ~ #idTitulo3-1 {
+    display: block;
+  }
+  
+  #idRadioT3-2:checked ~ #idTitulo3-2 {
+    display: block;
+  }
+  
+  #idRadioT3-3:checked ~ #idTitulo3-3 {
+    display: block;
+  }
+  
+  #idRadioT3-4:checked ~ #idTitulo3-4 {
+    display: block;
+  }
+  
+  #idRadioT3-5:checked ~ #idTitulo3-5 {
+    display: block;
+  }
+  
+  #idRadioT3-6:checked ~ #idTitulo3-6 {
+    display: block;
+  }
+  
+  #idRadioT3-7:checked ~ #idTitulo3-7 {
+    display: block;
+  }
+  
+  #idRadioT3-8:checked ~ #idTitulo3-8 {
+    display: block;
+  }
+  
+  #idRadioT3-9:checked ~ #idTitulo3-9 {
+    display: block;
+  }
+  
+  #idRadioT3-10:checked ~ #idTitulo3-10 {
+    display: block;
+  }
+  
+  /* ID radios 4 */
+  #idRadioT4-1:checked ~ #idTitulo4-1 {
+    display: block;
+  }
+  
+  /* ID radios 5 */
+  #idRadioT5-1:checked ~ #idTitulo5-1 {
+    display: block;
+  }
+  
+  body {
+    background-color: #136;
+  }
+  
+  header {
+    background-color: #55a;
+  }
+  
+  nav {
+    background-color: #88d;
+  }
+  
+  main {
+    background-color: #eee;
+    margin: 0 5%;
+  }
+  
+  /*# sourceMappingURL=estilo1.css.map */
+  
